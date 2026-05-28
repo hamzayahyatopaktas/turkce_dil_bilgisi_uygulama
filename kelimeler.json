@@ -1,0 +1,4815 @@
+{
+  "anaBasliklar": {
+    "Ünsüzlerle İlgili Ses Olayları": [
+      "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "Ünsüz Düşmesi",
+      "Kaynaştırma Ünsüzü (Yardımcı Ünsüz)",
+      "Dudak Ünsüzlerinin Benzeşmesi (Dudaksıllaşma)",
+      "Göçüşme"
+    ],
+    "Yazım Kuralları": [
+      "Büyük Harfler",
+      "Sayıların Yazılışı",
+      "İkilemelerin Yazımı",
+      "Birleşik Kelimelerin Yazımı",
+      "Ayrı Yazılan Birleşik Kelimeler",
+      "Kısaltmaların Yazımı",
+      "TDK Temmuz 2023 Değişikliği"
+    ]
+  },
+  "kelimeler": [
+    {
+      "kelime": "kanatçı",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538153.webp"
+    },
+    {
+      "kelime": "coşku",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538153.webp"
+    },
+    {
+      "kelime": "silahta",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538153.webp"
+    },
+    {
+      "kelime": "hafifçe",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538153.webp"
+    },
+    {
+      "kelime": "Sinop'tan",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538153.webp"
+    },
+    {
+      "kelime": "1965'te",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538153.webp"
+    },
+    {
+      "kelime": "atkı",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538153.webp"
+    },
+    {
+      "kelime": "askı",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538153.webp"
+    },
+    {
+      "kelime": "bitki",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538153.webp"
+    },
+    {
+      "kelime": "tepki",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538153.webp"
+    },
+    {
+      "kelime": "etkin",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538153.webp"
+    },
+    {
+      "kelime": "keskin",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538153.webp"
+    },
+    {
+      "kelime": "yapışkan",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538153.webp"
+    },
+    {
+      "kelime": "bileşke",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538153.webp"
+    },
+    {
+      "kelime": "toprağın",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "hesabı",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "kurağı",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "şurubu",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "ağaca",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "inadı",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "borcu",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "senedin",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "bileği",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "kitabı",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "tarağa",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "mezhebi",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "bacağı",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "dolaba",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "yanağa",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "kelime": "kasabı",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538155.webp"
+    },
+    {
+      "kelime": "inancımız",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538155.webp"
+    },
+    {
+      "kelime": "kanadı",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538155.webp"
+    },
+    {
+      "kelime": "pilici",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538155.webp"
+    },
+    {
+      "kelime": "geçidi",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538155.webp"
+    },
+    {
+      "kelime": "pirinci",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538155.webp"
+    },
+    {
+      "kelime": "yoğurdu",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538155.webp"
+    },
+    {
+      "kelime": "pabucun",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538155.webp"
+    },
+    {
+      "kelime": "umudu",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538155.webp"
+    },
+    {
+      "kelime": "kapağı",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538155.webp"
+    },
+    {
+      "kelime": "suyu",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Kaynaştırma Ünsüzü (Yardımcı Ünsüz)",
+      "resim": "1000538189.webp"
+    },
+    {
+      "kelime": "ikişer",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Kaynaştırma Ünsüzü (Yardımcı Ünsüz)",
+      "resim": "1000538189.webp"
+    },
+    {
+      "kelime": "ikisi",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Kaynaştırma Ünsüzü (Yardımcı Ünsüz)",
+      "resim": "1000538189.webp"
+    },
+    {
+      "kelime": "altının",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Kaynaştırma Ünsüzü (Yardımcı Ünsüz)",
+      "resim": "1000538189.webp"
+    },
+    {
+      "kelime": "büyücek",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "ufarak",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "çabucak",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "alçacık",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "küçücük",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "sıcacık",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "küçürek",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "seyrel-",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "yüksel-",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "küçül-",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "alçal-",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "eksil-",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "ufal-",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "asteğmen",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "üsteğmen",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "adaş",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "kelime": "kirbit",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Göçüşme",
+      "resim": "1000538191.webp"
+    },
+    {
+      "kelime": "torpak",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Göçüşme",
+      "resim": "1000538191.webp"
+    },
+    {
+      "kelime": "kiprik",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Göçüşme",
+      "resim": "1000538191.webp"
+    },
+    {
+      "kelime": "pembe",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Dudak Ünsüzlerinin Benzeşmesi (Dudaksıllaşma)",
+      "resim": "1000538190.webp"
+    },
+    {
+      "kelime": "kamber",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Dudak Ünsüzlerinin Benzeşmesi (Dudaksıllaşma)",
+      "resim": "1000538190.webp"
+    },
+    {
+      "kelime": "dolambaç",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Dudak Ünsüzlerinin Benzeşmesi (Dudaksıllaşma)",
+      "resim": "1000538190.webp"
+    },
+    {
+      "kelime": "ambar",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Dudak Ünsüzlerinin Benzeşmesi (Dudaksıllaşma)",
+      "resim": "1000538190.webp"
+    },
+    {
+      "kelime": "saklambaç",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Dudak Ünsüzlerinin Benzeşmesi (Dudaksıllaşma)",
+      "resim": "1000538190.webp"
+    }
+  ],
+  "misaller": [
+    {
+      "dogru": "Sevgili Dostum,",
+      "hatali": [
+        "Sevgili dostum,"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538195.webp"
+    },
+    {
+      "dogru": "Kıymetli Kardeşim,",
+      "hatali": [
+        "Kıymetli kardeşim,"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538195.webp"
+    },
+    {
+      "dogru": "Değerli Öğrencilerim,",
+      "hatali": [
+        "Değerli öğrencilerim,"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538195.webp"
+    },
+    {
+      "dogru": "Batı düşünürleri",
+      "hatali": [
+        "Batı Düşünürleri"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538197.webp"
+    },
+    {
+      "dogru": "Doğu medeniyeti",
+      "hatali": [
+        "Doğu Medeniyeti"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538197.webp"
+    },
+    {
+      "dogru": "Doğu mistisizmi",
+      "hatali": [
+        "Doğu Mistisizmi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538197.webp"
+    },
+    {
+      "dogru": "Türk",
+      "hatali": [],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538196.webp"
+    },
+    {
+      "dogru": "Arap",
+      "hatali": [],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538196.webp"
+    },
+    {
+      "dogru": "Fransız",
+      "hatali": [],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538196.webp"
+    },
+    {
+      "dogru": "Kırgız",
+      "hatali": [],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538196.webp"
+    },
+    {
+      "dogru": "Türkmen",
+      "hatali": [],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538196.webp"
+    },
+    {
+      "dogru": "Sarıkeçili",
+      "hatali": [],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538196.webp"
+    },
+    {
+      "dogru": "Ege Denizi",
+      "hatali": [
+        "Ege denizi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Fırat Nehri",
+      "hatali": [
+        "Fırat nehri"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Asya Yakası",
+      "hatali": [
+        "Asya yakası"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Zigana Geçidi",
+      "hatali": [
+        "Zigana geçidi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Van Gölü",
+      "hatali": [
+        "Van gölü"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Ağrı Dağı",
+      "hatali": [
+        "Ağrı dağı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Süveyş Kanalı",
+      "hatali": [
+        "Süveyş kanalı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Obruk Platosu",
+      "hatali": [
+        "Obruk platosu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Çanakkale Boğazı",
+      "hatali": [
+        "Çanakkale boğazı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Dicle Irmağı",
+      "hatali": [
+        "Dicle ırmağı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Konya ili",
+      "hatali": [
+        "Konya İli"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Ilgın ilçesi",
+      "hatali": [
+        "Ilgın İlçesi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Büyükoba köyü",
+      "hatali": [
+        "Büyükoba Köyü"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Çayırbağı kasabası",
+      "hatali": [
+        "Çayırbağı Kasabası"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Yenimahalle semti",
+      "hatali": [
+        "Yenimahalle Semti"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Aşiyan beldesi",
+      "hatali": [
+        "Aşiyan Beldesi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Fatih Mahallesi",
+      "hatali": [
+        "Fatih mahallesi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Atatürk Bulvarı",
+      "hatali": [
+        "Atatürk bulvarı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "İnkılap Sokağı",
+      "hatali": [
+        "İnkılap sokağı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Karaköy Meydanı",
+      "hatali": [
+        "Karaköy meydanı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Nene Hatun Caddesi",
+      "hatali": [
+        "Nene hatun Caddesi",
+        "Nene Hatun caddesi",
+        "Nene hatun caddesi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Ziya Gökalp Bulvarı",
+      "hatali": [
+        "Ziya gökalp Bulvarı",
+        "Ziya Gökalp bulvarı",
+        "Ziya gökalp bulvarı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538198.webp"
+    },
+    {
+      "dogru": "Vefa Tanır Caddesi",
+      "hatali": [
+        "Vefa tanır Caddesi",
+        "Vefa Tanır caddesi",
+        "Vefa tanır caddesi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538199.webp"
+    },
+    {
+      "dogru": "Özlem Sokağı",
+      "hatali": [
+        "Özlem sokağı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538199.webp"
+    },
+    {
+      "dogru": "Türk Dili dergisi",
+      "hatali": [
+        "Türk Dili Dergisi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538200.webp"
+    },
+    {
+      "dogru": "Handan romanı",
+      "hatali": [
+        "Handan Romanı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538200.webp"
+    },
+    {
+      "dogru": "Hürriyet gazetesi",
+      "hatali": [
+        "Hürriyet Gazetesi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538200.webp"
+    },
+    {
+      "dogru": "Arap atı",
+      "hatali": [
+        "Arap Atı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538202.webp"
+    },
+    {
+      "dogru": "Antep fıstığı",
+      "hatali": [
+        "Antep Fıstığı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538202.webp"
+    },
+    {
+      "dogru": "Roma hipodromu",
+      "hatali": [
+        "Roma Hipodromu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538202.webp"
+    },
+    {
+      "dogru": "Hindistan cevizi",
+      "hatali": [
+        "Hindistan Cevizi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538202.webp"
+    },
+    {
+      "dogru": "Afyon kaymağı",
+      "hatali": [
+        "Afyon Kaymağı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538202.webp"
+    },
+    {
+      "dogru": "Konya etli ekmeği",
+      "hatali": [
+        "Konya Etli ekmeği",
+        "Konya etli Ekmeği",
+        "Konya Etli Ekmeği"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538202.webp"
+    },
+    {
+      "dogru": "Frenk gömleği",
+      "hatali": [
+        "Frenk Gömleği"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538202.webp"
+    },
+    {
+      "dogru": "I. Dünya Savaşı",
+      "hatali": [
+        "I. dünya Savaşı",
+        "I. Dünya savaşı",
+        "I. dünya savaşı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538201.webp"
+    },
+    {
+      "dogru": "İnebahtı Deniz Savaşı",
+      "hatali": [
+        "İnebahtı deniz Savaşı",
+        "İnebahtı Deniz savaşı",
+        "İnebahtı deniz savaşı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538201.webp"
+    },
+    {
+      "dogru": "İlk Çağ",
+      "hatali": [
+        "İlk çağ"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538201.webp"
+    },
+    {
+      "dogru": "Fetret Dönemi",
+      "hatali": [
+        "Fetret dönemi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538201.webp"
+    },
+    {
+      "dogru": "Lale Devri",
+      "hatali": [
+        "Lale devri"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538201.webp"
+    },
+    {
+      "dogru": "Tanzimat Dönemi",
+      "hatali": [
+        "Tanzimat dönemi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538201.webp"
+    },
+    {
+      "dogru": "Servetifünun Dönemi",
+      "hatali": [
+        "Servetifünun dönemi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538201.webp"
+    },
+    {
+      "dogru": "Cahiliye Dönemi",
+      "hatali": [
+        "Cahiliye dönemi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538201.webp"
+    },
+    {
+      "dogru": "Buzul Dönemi",
+      "hatali": [
+        "Buzul dönemi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538201.webp"
+    },
+    {
+      "dogru": "ikişer",
+      "hatali": [
+        "2'şer"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Sayıların Yazılışı",
+      "resim": "1000538207.webp"
+    },
+    {
+      "dogru": "Binbir",
+      "hatali": [
+        "bin bir"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Sayıların Yazılışı",
+      "resim": "1000538206.webp"
+    },
+    {
+      "dogru": "bin bir",
+      "hatali": [
+        "Binbir"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Sayıların Yazılışı",
+      "resim": "1000538206.webp"
+    },
+    {
+      "dogru": "8'inci",
+      "hatali": [
+        "8.'inci",
+        "8'nci"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Sayıların Yazılışı",
+      "resim": "1000538208.webp"
+    },
+    {
+      "dogru": "anaerkil",
+      "hatali": [
+        "ana erkil"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "ataerkil",
+      "hatali": [
+        "ata erkil"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "babayiğit",
+      "hatali": [
+        "baba yiğit"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "bastıbacak",
+      "hatali": [
+        "bastı bacak"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "boşboğaz",
+      "hatali": [
+        "boş boğaz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "pisboğaz",
+      "hatali": [
+        "pis boğaz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "büyükbaş",
+      "hatali": [
+        "büyük baş"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "camgöz",
+      "hatali": [
+        "cam göz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "cingöz",
+      "hatali": [
+        "cin göz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "elverişli",
+      "hatali": [
+        "el verişli"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "paragöz",
+      "hatali": [
+        "para göz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "cırcır",
+      "hatali": [
+        "cır cır"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "cızbız",
+      "hatali": [
+        "cız bız"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "dırdır",
+      "hatali": [
+        "dır dır"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "yüzgöz",
+      "hatali": [
+        "yüz göz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "darmadağınık",
+      "hatali": [
+        "darma dağınık"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "darmaduman",
+      "hatali": [
+        "darma duman"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "karmakarışık",
+      "hatali": [
+        "karma karışık"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "dogru": "at mat",
+      "hatali": [
+        "atmat"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538215.webp"
+    },
+    {
+      "dogru": "dolap molap",
+      "hatali": [
+        "dolapmolap"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538215.webp"
+    },
+    {
+      "dogru": "kapı mapı",
+      "hatali": [
+        "kapımapı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538215.webp"
+    },
+    {
+      "dogru": "göz göze",
+      "hatali": [
+        "gözgöze"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538215.webp"
+    },
+    {
+      "dogru": "iç içe",
+      "hatali": [
+        "içiçe"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538215.webp"
+    },
+    {
+      "dogru": "yan yana",
+      "hatali": [
+        "yanyana"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538215.webp"
+    },
+    {
+      "dogru": "günü gününe",
+      "hatali": [
+        "günügününe"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538215.webp"
+    },
+    {
+      "dogru": "yıldan yıla",
+      "hatali": [
+        "yıldanyıla"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538215.webp"
+    },
+    {
+      "dogru": "başa baş",
+      "hatali": [
+        "başabaş"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538215.webp"
+    },
+    {
+      "dogru": "birden bire",
+      "hatali": [
+        "birenbire"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538215.webp"
+    },
+    {
+      "dogru": "git gide",
+      "hatali": [
+        "gitgide"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538215.webp"
+    },
+    {
+      "dogru": "alt üst etmek",
+      "hatali": [
+        "altüst etmek"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538215.webp"
+    },
+    {
+      "dogru": "albeni",
+      "hatali": [
+        "al beni"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "ateşkes",
+      "hatali": [
+        "ateş kes"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "çalçene",
+      "hatali": [
+        "çal çene"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "çalyaka",
+      "hatali": [
+        "çal yaka"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "dönbaba",
+      "hatali": [
+        "dön baba"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "gelberi",
+      "hatali": [
+        "gel beri"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "incitmebeni",
+      "hatali": [
+        "incitme beni"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "sallabaş",
+      "hatali": [
+        "salla baş"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "sallasırt",
+      "hatali": [
+        "salla sırt"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "unutmabeni",
+      "hatali": [
+        "unutma beni"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "batçık",
+      "hatali": [
+        "bat çık"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "çekyat",
+      "hatali": [
+        "çek yat"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "geçgeç",
+      "hatali": [
+        "geç geç"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "kaçgöç",
+      "hatali": [
+        "kaç göç"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "kapkaç",
+      "hatali": [
+        "kap kaç"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "örtbas",
+      "hatali": [
+        "ört bas"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "seçal",
+      "hatali": [
+        "seç al"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "tutkal",
+      "hatali": [
+        "tut kal"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "veryansın",
+      "hatali": [
+        "ver yansın"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "yapboz",
+      "hatali": [
+        "yap boz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "yazboz",
+      "hatali": [
+        "yaz boz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538232.webp"
+    },
+    {
+      "dogru": "başbakan",
+      "hatali": [
+        "baş bakan"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538236.webp"
+    },
+    {
+      "dogru": "başçavuş",
+      "hatali": [
+        "baş çavuş"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538236.webp"
+    },
+    {
+      "dogru": "başeser",
+      "hatali": [
+        "baş eser"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538236.webp"
+    },
+    {
+      "dogru": "başfiyat",
+      "hatali": [
+        "baş fiyat"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538236.webp"
+    },
+    {
+      "dogru": "başhekim",
+      "hatali": [
+        "baş hekim"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538236.webp"
+    },
+    {
+      "dogru": "başhemşire",
+      "hatali": [
+        "baş hemşire"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538236.webp"
+    },
+    {
+      "dogru": "başkahraman",
+      "hatali": [
+        "baş kahraman"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538236.webp"
+    },
+    {
+      "dogru": "başpehlivan",
+      "hatali": [
+        "baş pehlivan"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538236.webp"
+    },
+    {
+      "dogru": "başmüfettiş",
+      "hatali": [
+        "baş müfettiş"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538236.webp"
+    },
+    {
+      "dogru": "aşevi",
+      "hatali": [
+        "aş evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538234.webp"
+    },
+    {
+      "dogru": "bakımevi",
+      "hatali": [
+        "bakım evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538234.webp"
+    },
+    {
+      "dogru": "basımevi",
+      "hatali": [
+        "basım evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538234.webp"
+    },
+    {
+      "dogru": "doğumevi",
+      "hatali": [
+        "doğum evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538234.webp"
+    },
+    {
+      "dogru": "gözlemevi",
+      "hatali": [
+        "gözlem evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538234.webp"
+    },
+    {
+      "dogru": "huzurevi",
+      "hatali": [
+        "huzur evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538234.webp"
+    },
+    {
+      "dogru": "kahveevi",
+      "hatali": [
+        "kahve evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538234.webp"
+    },
+    {
+      "dogru": "konukevi",
+      "hatali": [
+        "konuk evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538234.webp"
+    },
+    {
+      "dogru": "orduevi",
+      "hatali": [
+        "ordu evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538234.webp"
+    },
+    {
+      "dogru": "öğretmenevi",
+      "hatali": [
+        "öğretmen evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538234.webp"
+    },
+    {
+      "dogru": "polisevi",
+      "hatali": [
+        "polis evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538234.webp"
+    },
+    {
+      "dogru": "yayınevi",
+      "hatali": [
+        "yayın evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538234.webp"
+    },
+    {
+      "dogru": "bayramüstü",
+      "hatali": [
+        "bayram üstü"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "ikindiüstü",
+      "hatali": [
+        "ikindi üstü"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "öğleüstü",
+      "hatali": [
+        "öğle üstü"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "öğleüzeri",
+      "hatali": [
+        "öğle üzeri"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "akşamüzeri",
+      "hatali": [
+        "akşam üzeri"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "akşamüstü",
+      "hatali": [
+        "akşam üstü"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "bilinçaltı",
+      "hatali": [
+        "bilinç altı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "doğaüstü",
+      "hatali": [
+        "doğa üstü"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "şuuraltı",
+      "hatali": [
+        "şuur altı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "ayaküstü",
+      "hatali": [
+        "ayak üstü"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "gerçeküstü",
+      "hatali": [
+        "gerçek üstü"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "olağanüstü",
+      "hatali": [
+        "olağan üstü"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "suçüstü",
+      "hatali": [
+        "suç üstü"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "yüzüstü",
+      "hatali": [
+        "yüz üstü"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "ayaküzeri",
+      "hatali": [
+        "ayak üzeri"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538231.webp"
+    },
+    {
+      "dogru": "dedikodu",
+      "hatali": [
+        "dedi kodu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538227.webp"
+    },
+    {
+      "dogru": "kaptıkaçtı",
+      "hatali": [
+        "kaptı kaçtı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538227.webp"
+    },
+    {
+      "dogru": "oldubitti",
+      "hatali": [
+        "oldu bitti"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538227.webp"
+    },
+    {
+      "dogru": "uçtuuçtu",
+      "hatali": [
+        "uçtu uçtu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538227.webp"
+    },
+    {
+      "dogru": "biçerbağlar",
+      "hatali": [
+        "biçer bağlar"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538227.webp"
+    },
+    {
+      "dogru": "biçerdöver",
+      "hatali": [
+        "biçer döver"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538227.webp"
+    },
+    {
+      "dogru": "göçerkonar",
+      "hatali": [
+        "göçer konar"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538227.webp"
+    },
+    {
+      "dogru": "kazaratar",
+      "hatali": [
+        "kazar atar"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538227.webp"
+    },
+    {
+      "dogru": "konargöçer",
+      "hatali": [
+        "konar göçer"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538227.webp"
+    },
+    {
+      "dogru": "okuryazar",
+      "hatali": [
+        "okur yazar"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538227.webp"
+    },
+    {
+      "dogru": "uyurgezer",
+      "hatali": [
+        "uyur gezer"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538227.webp"
+    },
+    {
+      "dogru": "yanardöner",
+      "hatali": [
+        "yanar döner"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538227.webp"
+    },
+    {
+      "dogru": "albastı",
+      "hatali": [
+        "al bastı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538228.webp"
+    },
+    {
+      "dogru": "çıtkırıldım",
+      "hatali": [
+        "çıt kırıldım"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538228.webp"
+    },
+    {
+      "dogru": "gecekondu",
+      "hatali": [
+        "gece kondu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538228.webp"
+    },
+    {
+      "dogru": "hünkârbeğendi",
+      "hatali": [
+        "hünkâr beğendi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538228.webp"
+    },
+    {
+      "dogru": "imambayıldı",
+      "hatali": [
+        "imam bayıldı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538228.webp"
+    },
+    {
+      "dogru": "karyağdı",
+      "hatali": [
+        "kar yağdı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538228.webp"
+    },
+    {
+      "dogru": "külbastı",
+      "hatali": [
+        "kül bastı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538228.webp"
+    },
+    {
+      "dogru": "mirasyedi",
+      "hatali": [
+        "miras yedi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538228.webp"
+    },
+    {
+      "dogru": "papazkaçtı",
+      "hatali": [
+        "papaz kaçtı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538228.webp"
+    },
+    {
+      "dogru": "serdengeçti",
+      "hatali": [
+        "serden geçti"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538228.webp"
+    },
+    {
+      "dogru": "şıpsevdi",
+      "hatali": [
+        "şıp sevdi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538228.webp"
+    },
+    {
+      "dogru": "akağaç",
+      "hatali": [
+        "ak ağaç"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538225.webp"
+    },
+    {
+      "dogru": "alacamenekşe",
+      "hatali": [
+        "alaca menekşe"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538225.webp"
+    },
+    {
+      "dogru": "karadut",
+      "hatali": [
+        "kara dut"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538225.webp"
+    },
+    {
+      "dogru": "sarıçiçek",
+      "hatali": [
+        "sarı çiçek"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538225.webp"
+    },
+    {
+      "dogru": "alabalık",
+      "hatali": [
+        "ala balık"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538225.webp"
+    },
+    {
+      "dogru": "beyazsinek",
+      "hatali": [
+        "beyaz sinek"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538225.webp"
+    },
+    {
+      "dogru": "bozayı",
+      "hatali": [
+        "boz ayı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538225.webp"
+    },
+    {
+      "dogru": "aksu",
+      "hatali": [
+        "ak su"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538225.webp"
+    },
+    {
+      "dogru": "akbasma",
+      "hatali": [
+        "ak basma"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538225.webp"
+    },
+    {
+      "dogru": "mavihastalık",
+      "hatali": [
+        "mavi hastalık"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538225.webp"
+    },
+    {
+      "dogru": "maviküf",
+      "hatali": [
+        "mavi küf"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538225.webp"
+    },
+    {
+      "dogru": "İçişleri",
+      "hatali": [
+        "İç işleri"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538226.webp"
+    },
+    {
+      "dogru": "Dışişleri",
+      "hatali": [
+        "Dış işleri"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538226.webp"
+    },
+    {
+      "dogru": "Genelkurmay",
+      "hatali": [
+        "Genel kurmay"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538226.webp"
+    },
+    {
+      "dogru": "Yükseköğretim Kurulu",
+      "hatali": [
+        "Yüksek öğretim Kurulu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538226.webp"
+    },
+    {
+      "dogru": "Açıköğretim Fakültesi",
+      "hatali": [
+        "Açık öğretim Fakültesi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538226.webp"
+    },
+    {
+      "dogru": "Gaziosmanpaşa Üniversitesi",
+      "hatali": [
+        "Gazi Osman Paşa Üniversitesi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538226.webp"
+    },
+    {
+      "dogru": "acembuselik",
+      "hatali": [
+        "acem buselik"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538224.webp"
+    },
+    {
+      "dogru": "hisarbuselik",
+      "hatali": [
+        "hisar buselik"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538224.webp"
+    },
+    {
+      "dogru": "muhayyerkürdi",
+      "hatali": [
+        "muhayyer kürdi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538224.webp"
+    },
+    {
+      "dogru": "eşeksırtı",
+      "hatali": [
+        "eşek sırtı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "balıksırtı",
+      "hatali": [
+        "balık sırtı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "civankaşı",
+      "hatali": [
+        "civan kaşı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "hanımgöbeği",
+      "hatali": [
+        "hanım göbeği"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "kadınbudu",
+      "hatali": [
+        "kadın budu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "dilberdudağı",
+      "hatali": [
+        "dilber dudağı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "alinazik",
+      "hatali": [
+        "ali nazik"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "bülbülyuvası",
+      "hatali": [
+        "bülbül yuvası"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "beştaş",
+      "hatali": [
+        "beş taş"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "dokuztaş",
+      "hatali": [
+        "dokuz taş"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "baklaçiçeği",
+      "hatali": [
+        "bakla çiçeği"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "camgöbeği",
+      "hatali": [
+        "cam göbeği"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "devetüyü",
+      "hatali": [
+        "deve tüyü"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "fildişi",
+      "hatali": [
+        "fil dişi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "vapurdumanı",
+      "hatali": [
+        "vapur dumanı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "tavşankanı",
+      "hatali": [
+        "tavşan kanı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "ördekgagası",
+      "hatali": [
+        "ördek gagası"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "ördekbaşı",
+      "hatali": [
+        "ördek başı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "kavuniçi",
+      "hatali": [
+        "kavun içi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "narçiçeği",
+      "hatali": [
+        "nar çiçeği"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538237.webp"
+    },
+    {
+      "dogru": "gasbetmek",
+      "hatali": [
+        "gasb etmek"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538238.webp"
+    },
+    {
+      "dogru": "vadetmek",
+      "hatali": [
+        "vad etmek"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538238.webp"
+    },
+    {
+      "dogru": "tabetmek",
+      "hatali": [
+        "tab etmek"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538238.webp"
+    },
+    {
+      "dogru": "dercetmek",
+      "hatali": [
+        "derc etmek"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538238.webp"
+    },
+    {
+      "dogru": "darbetmek",
+      "hatali": [
+        "darb etmek"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538238.webp"
+    },
+    {
+      "dogru": "hamdetmek",
+      "hatali": [
+        "hamd etmek"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538238.webp"
+    },
+    {
+      "dogru": "önsezi",
+      "hatali": [
+        "ön sezi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538235.webp"
+    },
+    {
+      "dogru": "öngörü",
+      "hatali": [
+        "ön görü"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538235.webp"
+    },
+    {
+      "dogru": "önayak",
+      "hatali": [
+        "ön ayak"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538235.webp"
+    },
+    {
+      "dogru": "ön ad",
+      "hatali": [
+        "önad"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538235.webp"
+    },
+    {
+      "dogru": "ön yargı",
+      "hatali": [
+        "önyargı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538235.webp"
+    },
+    {
+      "dogru": "ön söz",
+      "hatali": [
+        "önsöz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538235.webp"
+    },
+    {
+      "dogru": "ön muhasebe",
+      "hatali": [
+        "önmuhasebe"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538235.webp"
+    },
+    {
+      "dogru": "ağaç evi",
+      "hatali": [
+        "ağaçevi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538233.webp"
+    },
+    {
+      "dogru": "orman evi",
+      "hatali": [
+        "ormanevi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538233.webp"
+    },
+    {
+      "dogru": "bağ evi",
+      "hatali": [
+        "bağevi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "dağ evi",
+      "hatali": [
+        "dağevi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "ikide bir",
+      "hatali": [
+        "ikidebir"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "herhangi bir",
+      "hatali": [
+        "herhangibir"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "bir ara",
+      "hatali": [
+        "birara"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "bir an",
+      "hatali": [
+        "biran"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "bir zaman",
+      "hatali": [
+        "birzaman"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "bir kısım",
+      "hatali": [
+        "birkısım"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "ana cadde",
+      "hatali": [
+        "anacadde"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "ana dil",
+      "hatali": [
+        "anadil"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "ana dili",
+      "hatali": [
+        "anadili"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "ana kent",
+      "hatali": [
+        "anakent"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "ana kara",
+      "hatali": [
+        "anakara"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "başa baş",
+      "hatali": [
+        "başabaş"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "baş belası",
+      "hatali": [
+        "başbelası"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "baş dönmesi",
+      "hatali": [
+        "başdönmesi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "hiçbir",
+      "hatali": [
+        "hiç bir"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "birkaç",
+      "hatali": [
+        "bir kaç"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "birçok",
+      "hatali": [
+        "bir çok"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "biraz",
+      "hatali": [
+        "bir az"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "birdenbire",
+      "hatali": [
+        "birden bire"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "kitabevi",
+      "hatali": [
+        "kitab evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "dünyaevi",
+      "hatali": [
+        "dünya evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "babaevi",
+      "hatali": [
+        "baba evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "canevi",
+      "hatali": [
+        "can evi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "anaerkil",
+      "hatali": [
+        "ana erkil"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "anaokulu",
+      "hatali": [
+        "ana okulu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "anayasa",
+      "hatali": [
+        "ana yasa"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "başaktörlük",
+      "hatali": [
+        "baş aktörlük"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "başdanışman",
+      "hatali": [
+        "baş danışman"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538223.webp"
+    },
+    {
+      "dogru": "Cankurtaran",
+      "hatali": [
+        "Can kurtaran"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "barışsever",
+      "hatali": [
+        "barış sever"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "karıncaincitmez",
+      "hatali": [
+        "karınca incitmez"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "çokbilmiş",
+      "hatali": [
+        "çok bilmiş"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "çöpçatan",
+      "hatali": [
+        "çöp çatan"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "akımtoplar",
+      "hatali": [
+        "akım toplar"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "altıpatlar",
+      "hatali": [
+        "altı patlar"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "basınçölçer",
+      "hatali": [
+        "basınç ölçer"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "baştanımaz",
+      "hatali": [
+        "baş tanımaz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "değerbilmez",
+      "hatali": [
+        "değer bilmez"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "etyemez",
+      "hatali": [
+        "et yemez"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "hacıyatmaz",
+      "hatali": [
+        "hacı yatmaz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "kadirbilmez",
+      "hatali": [
+        "kadir bilmez"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "kuşkonmaz",
+      "hatali": [
+        "kuş konmaz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "külyutmaz",
+      "hatali": [
+        "kül yutmaz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "tanrıtanımaz",
+      "hatali": [
+        "tanrı tanımaz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "varyemez",
+      "hatali": [
+        "var yemez"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "güngörmüş",
+      "hatali": [
+        "gün görmüş"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "cankurtaran",
+      "hatali": [
+        "can kurtaran"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "güler yüz",
+      "hatali": [
+        "güleryüz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "uçan daire",
+      "hatali": [
+        "uçandaire"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "çıkmaz sokak",
+      "hatali": [
+        "çıkmazsokak"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538230.webp"
+    },
+    {
+      "dogru": "ayırt etmek",
+      "hatali": [
+        "ayırtetmek"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538239.webp"
+    },
+    {
+      "dogru": "azat etmek",
+      "hatali": [
+        "azatetmek"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resim": "1000538239.webp"
+    },
+    {
+      "dogru": "bakar kör",
+      "hatali": [
+        "bakarkör"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "çalar saat",
+      "hatali": [
+        "çalarsaat"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "çıkar yol",
+      "hatali": [
+        "çıkaryol"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "döner sermaye",
+      "hatali": [
+        "dönersermaye"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "güler yüz",
+      "hatali": [
+        "güleryüz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "koşar adım",
+      "hatali": [
+        "koşaradım"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "yazar kasa",
+      "hatali": [
+        "yazarkasa"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "çıkmaz sokak",
+      "hatali": [
+        "çıkmazsokak"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "geçmez akçe",
+      "hatali": [
+        "geçmezakçe"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "doyuran buhar",
+      "hatali": [
+        "doyuranbuhar"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "uçan daire",
+      "hatali": [
+        "uçandaire"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "bilirkişi",
+      "hatali": [
+        "bilir kişi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "yanardağ",
+      "hatali": [
+        "yanar dağ"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "akarsu",
+      "hatali": [
+        "akar su"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "akaryakıt",
+      "hatali": [
+        "akar yakıt"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "dogru": "Oltu taşı",
+      "hatali": [
+        "Oltutaşı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "sünger taşı",
+      "hatali": [
+        "süngertaşı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "lüle taşı",
+      "hatali": [
+        "lületaşı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "Hacıbektaş taşı",
+      "hatali": [
+        "Hacıbektaştaşı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "arap sabunu",
+      "hatali": [
+        "arapsabunu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "el sabunu",
+      "hatali": [
+        "elsabunu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "kahve değirmeni",
+      "hatali": [
+        "kahvedeğirmeni"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "yel değirmeni",
+      "hatali": [
+        "yeldeğirmeni"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "kahve dolabı",
+      "hatali": [
+        "kahvedolabı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "su dolabı",
+      "hatali": [
+        "sudolabı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "müzik odası",
+      "hatali": [
+        "müzikodası"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "oturma odası",
+      "hatali": [
+        "oturmaodası"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "duvar saati",
+      "hatali": [
+        "duvarsaati"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "kol saati",
+      "hatali": [
+        "kolsaati"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "duvar takvimi",
+      "hatali": [
+        "duvartakvimi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "masa takvimi",
+      "hatali": [
+        "masatakvimi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538249.webp"
+    },
+    {
+      "dogru": "çetin ceviz",
+      "hatali": [
+        "çetinceviz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538247.webp"
+    },
+    {
+      "dogru": "çöpsüz üzüm",
+      "hatali": [
+        "çöpsüzüzüm"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538247.webp"
+    },
+    {
+      "dogru": "eski kurt",
+      "hatali": [
+        "eskikurt"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538247.webp"
+    },
+    {
+      "dogru": "sarı çıyan",
+      "hatali": [
+        "sarıçıyan"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538247.webp"
+    },
+    {
+      "dogru": "sağmal inek",
+      "hatali": [
+        "sağmalinek"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538247.webp"
+    },
+    {
+      "dogru": "eski toprak",
+      "hatali": [
+        "eskitoprak"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538247.webp"
+    },
+    {
+      "dogru": "eski tüfek",
+      "hatali": [
+        "eskitüfek"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538247.webp"
+    },
+    {
+      "dogru": "kara maşa",
+      "hatali": [
+        "karamaşa"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538247.webp"
+    },
+    {
+      "dogru": "sapsız balta",
+      "hatali": [
+        "sapsızbalta"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538247.webp"
+    },
+    {
+      "dogru": "çakır pençe",
+      "hatali": [
+        "çakırpençe"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538247.webp"
+    },
+    {
+      "dogru": "demir yumruk",
+      "hatali": [
+        "demiryumruk"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538247.webp"
+    },
+    {
+      "dogru": "kuru kemik",
+      "hatali": [
+        "kurukemik"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538247.webp"
+    },
+    {
+      "dogru": "baklaçiçeği",
+      "hatali": [
+        "bakla çiçeği"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538250.webp"
+    },
+    {
+      "dogru": "narçiçeği",
+      "hatali": [
+        "nar çiçeği"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538250.webp"
+    },
+    {
+      "dogru": "suçiçeği",
+      "hatali": [
+        "su çiçeği"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538250.webp"
+    },
+    {
+      "dogru": "ağızotu",
+      "hatali": [
+        "ağız otu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538250.webp"
+    },
+    {
+      "dogru": "sıçanotu",
+      "hatali": [
+        "sıçan otu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538250.webp"
+    },
+    {
+      "dogru": "çöreotu",
+      "hatali": [
+        "çörek otu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538250.webp"
+    },
+    {
+      "dogru": "semizotu",
+      "hatali": [
+        "semiz otu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538250.webp"
+    },
+    {
+      "dogru": "dereotu",
+      "hatali": [
+        "dere otu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538250.webp"
+    },
+    {
+      "dogru": "yerküre",
+      "hatali": [
+        "yer küre"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538248.webp"
+    },
+    {
+      "dogru": "otoyol",
+      "hatali": [
+        "oto yol"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538248.webp"
+    },
+    {
+      "dogru": "kırmızıturp",
+      "hatali": [
+        "kırmızı turp"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538250.webp"
+    },
+    {
+      "dogru": "kırmızıbiber",
+      "hatali": [
+        "kırmızı biber"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538250.webp"
+    },
+    {
+      "dogru": "kırmızılahana",
+      "hatali": [
+        "kırmızı lahana"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538250.webp"
+    },
+    {
+      "dogru": "DSİ'ye",
+      "hatali": [
+        "D.S.İ.'ye"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "resim": "1000538251.webp"
+    },
+    {
+      "dogru": "RTÜK'e",
+      "hatali": [
+        "R.T.Ü.K.'e"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "resim": "1000538251.webp"
+    },
+    {
+      "dogru": "TBMM'ye",
+      "hatali": [
+        "T.B.M.M.'ye"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "resim": "1000538251.webp"
+    },
+    {
+      "dogru": "cm'yi",
+      "hatali": [
+        "cm.'yi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "resim": "1000538251.webp"
+    },
+    {
+      "dogru": "kg'dan",
+      "hatali": [
+        "kg.'dan"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "resim": "1000538251.webp"
+    },
+    {
+      "dogru": "mm'ye",
+      "hatali": [
+        "mm.'ye"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "resim": "1000538251.webp"
+    },
+    {
+      "dogru": "T.C.",
+      "hatali": [
+        "TC"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "resim": "1000538251.webp"
+    },
+    {
+      "dogru": "T.",
+      "hatali": [
+        "T"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "resim": "1000538251.webp"
+    },
+    {
+      "dogru": "kr.un",
+      "hatali": [
+        "krun"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "resim": "1000538251.webp"
+    },
+    {
+      "dogru": "16.yy.a",
+      "hatali": [
+        "16yya"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "resim": "1000538251.webp"
+    },
+    {
+      "dogru": "vb.leri",
+      "hatali": [
+        "vbleri"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "resim": "1000538251.webp"
+    },
+    {
+      "dogru": "İng.yi",
+      "hatali": [
+        "İngyi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "resim": "1000538251.webp"
+    },
+    {
+      "dogru": "No.suz",
+      "hatali": [
+        "Nosuz"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "resim": "1000538251.webp"
+    },
+    {
+      "dogru": "at balığı",
+      "hatali": [
+        "atbalığı"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    },
+    {
+      "dogru": "ak zambak",
+      "hatali": [
+        "akzambak"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    },
+    {
+      "dogru": "gök soğan",
+      "hatali": [
+        "göksoğan"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    },
+    {
+      "dogru": "yeşil çay",
+      "hatali": [
+        "yeşilçay"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    },
+    {
+      "dogru": "yeşil alan",
+      "hatali": [
+        "yeşilalan"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    },
+    {
+      "dogru": "yeşil zeytin",
+      "hatali": [
+        "yeşilzeytin"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    },
+    {
+      "dogru": "yeşil soğan",
+      "hatali": [
+        "yeşilsoğan"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    },
+    {
+      "dogru": "yeşil biber",
+      "hatali": [
+        "yeşilbiber"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    },
+    {
+      "dogru": "yeşil fasulye",
+      "hatali": [
+        "yeşilfasulye"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538244.webp"
+    },
+    {
+      "dogru": "hasır altı etmek",
+      "hatali": [
+        "hasıraltı etmek"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    },
+    {
+      "dogru": "Marmaraereğlisi",
+      "hatali": [
+        "Marmara Ereğlisi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    },
+    {
+      "dogru": "yakantop",
+      "hatali": [
+        "yakan top"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    },
+    {
+      "dogru": "ek-eylem",
+      "hatali": [
+        "ek eylem"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    },
+    {
+      "dogru": "ek-fiil",
+      "hatali": [
+        "ek fiil"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    },
+    {
+      "dogru": "akçaarmut",
+      "hatali": [
+        "akça armudu"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    },
+    {
+      "dogru": "sultanefendi",
+      "hatali": [
+        "sultan efendi"
+      ],
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    }
+  ],
+  "aciklamalar": [
+    {
+      "metin": "Türkçede sert ünsüzlerle (f, s, t, k, ç, ş, h, p) biten sözcüklerden sonra \"c, d, g\" ünsüzleriyle başlayan bir ek gelirse ekin başındaki \"c, d, g\" ünsüzleri, kendilerinden önce gelen sert ünsüzlerden etkilenerek sertleşir ve c > ç'ye, d > t'ye, g > k'ye dönüşür. Buna \"sert ünsüz benzeşmesi\" ya da \"ünsüz uyumu\" denir. Örnek: Kitap-cı > Kitap-çı, Ağaç-dan > Ağaç-tan, Seç-gin > Seç-kin.",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "resim": "1000538152.webp"
+    },
+    {
+      "metin": "Türkçede sözcük sonu \"p, ç, t, k\" ünsüzleriyle biten sözcüklere ünlü ile başlayan bir ek geldiğinde bu ünsüzlerin \"b, c, d, g, ğ\" ünsüzlerine dönüşmesidir. ç sesi c'ye, k sesi g/ğ'ye, t sesi d'ye, p sesi b'ye dönüşür. Buna \"ünsüz yumuşaması\" denir. Örnek: toprak > toprağın, kitap > kitabı, ağaç > ağaca, inat > inadı.",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "resim": "1000538154.webp"
+    },
+    {
+      "metin": "Türkçede iki ünlü yan yana gelmez. Ünlü ile biten bir kelimeye ünlü ile başlayan bir ek geldiğinde araya giren \"y, ş, s, n\" ekleridir. Örnek: su-u > su-y-u, iki-er > iki-ş-er, iki-i > iki-s-i, altı-ın > altı-n-ın.",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Kaynaştırma Ünsüzü (Yardımcı Ünsüz)",
+      "resim": "1000538189.webp"
+    },
+    {
+      "metin": "Seslerin birleşmesi sırasında söyleyiş güçlüğü veya zayıf sesler (g, h, n, l, r, y, z) sebebiyle bir ünsüzün düşmesidir. Sözcük sonu \"k\" ünsüzü ile biterse ve sözcüğe \"-cık/-cik; -cak/-cek; -rak/-rek\" küçültme ekleri ya da \"-l\" yapım eki gelirse \"k\" düşebilir. Birleşik sözcüklerde başta \"ast\" ve \"üst\" sözcüğü olduğunda da düşebilir.",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "resim": "1000538188.webp"
+    },
+    {
+      "metin": "Bir ses olayıdır ama yazım kurallarına aykırılık arz eder. Halk dilinde günlük konuşmada karşımıza çıkar. Sözcükteki harfler (sesler) arası yer değişimidir. Örnek: kibrit > kirbit, toprak > torpak, kirpik > kiprik.",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Göçüşme",
+      "resim": "1000538191.webp"
+    },
+    {
+      "metin": "Türkçede \"n\" ve \"b\" seslerinin yan yana gelmesiyle oluşur. \"b\" sesi dudak ünsüzüdür ve kendinden önce gelen \"n\" sesini \"m\" sesine dönüştürür. Çünkü \"n\" sesi dudak ünsüzü değildir ama \"m\" sesi dudak ünsüzüdür. Örnek: penbe > pembe, anbar > ambar.",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Dudak Ünsüzlerinin Benzeşmesi (Dudaksıllaşma)",
+      "resim": "1000538190.webp"
+    },
+    {
+      "metin": "Cümle içinde tırnak içine alınan cümleler büyük harfle başlar ve sonuna uygun noktalama işareti konur.",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "cumle": [
+        "Reşat Nuri \"Halk için roman yazmalıyız.\" dedi."
+      ],
+      "resim": "1000538192.webp"
+    },
+    {
+      "metin": "Cümle içinde yay ayraç içine alınan cümleler büyük harfle başlar ve sonuna uygun noktalama işareti konur.",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "cumle": [
+        "Dün kasabayı (Kasaba sözünü de korkarak yazdım.) uzaktan dikkatle izledim."
+      ],
+      "resim": "1000538192.webp"
+    },
+    {
+      "metin": "İki kısa çizgi arasındaki açıklama cümleleri büyük harfle başlamaz.",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "cumle": [
+        "Bir zamanlar - bu zamanlar çok uzak değildir - seni buralarda görürdüm.",
+        "Erhan - amcamın oğlu - geçen gün buraya gelmiş."
+      ],
+      "resim": "1000538193.webp"
+    },
+    {
+      "metin": "Özel ada dâhil olmayan gazete, dergi, tablo vb. sözler büyük harfle başlamaz. İstisna: Resmî Gazete.",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resim": "1000538200.webp"
+    },
+    {
+      "metin": "Üleştirme sayıları rakamla değil, yazıyla belirtilir.",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Sayıların Yazılışı",
+      "resim": "1000538207.webp"
+    },
+    {
+      "metin": "\"Binbir\" sayısı \"çok sayıda\" anlamında sıfat olarak kullanıldığında bitişik yazılır; gerçek sayı bildirdiğinde ayrı yazılır.",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Sayıların Yazılışı",
+      "resim": "1000538206.webp"
+    },
+    {
+      "metin": "Sayıları kolay okumak amacıyla içinde geçen \"bin, milyon, milyar\" sözleri yazıyla da yazılabilir.",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Sayıların Yazılışı",
+      "cumle": [
+        "8 milyar 982 milyon 125 kişi",
+        "312 bin 78 kitap"
+      ],
+      "resim": "1000538205.webp"
+    },
+    {
+      "metin": "Vurgusu son hecede bulunan birleşik kelimeler ve ikilemeler bitişik yazılır. Vurgusu ilk heceye kayan eş anlamlı ikilemeler de bitişik yazılır.",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538216.webp"
+    },
+    {
+      "metin": "\"m\" ile yapılmış ikilemeler ayrı yazılır. İsim durum ekleri ve iyelik ekiyle yapılan ikilemeler de ayrı yazılır.",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "resim": "1000538215.webp"
+    },
+    {
+      "metin": "-r, -ar/-er, -maz/-mez ve -an/-en sıfat-fiil ekleriyle kurulan sıfat tamlaması yapısındaki birleşik kelimeler ayrı yazılır. İstisna: \"bilirkişi, yanardağ, akarsu, akaryakıt\" bitişik yazılır.",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resim": "1000538246.webp"
+    },
+    {
+      "metin": "Hepsi büyük harfle yazılan kısaltmalarda nokta kullanılmaz (istisna: T.C., T.). Ölçü birimlerinde nokta kullanılmaz. İçinde küçük harf olan diğer kısaltmalarda nokta kullanılır.",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "resim": "1000538251.webp"
+    },
+    {
+      "metin": "TDK Temmuz 2023 değişikliğine göre birleşik/ayrı yazımı güncellenen sözcükler.",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "resim": "1000538253.webp"
+    }
+  ],
+  "resimler": [
+    {
+      "dosya": "1000538152.webp",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "aciklama": "Ünsüz benzeşmesi tanımı ve tablo"
+    },
+    {
+      "dosya": "1000538156.webp",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "aciklama": "Özet şeması (yumuşama/benzeşme)"
+    },
+    {
+      "dosya": "1000538153.webp",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Benzeşmesi (Ünsüz Sertleşmesi)",
+      "aciklama": "Ünsüz benzeşmesi misalleri"
+    },
+    {
+      "dosya": "1000538154.webp",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "aciklama": "Ünsüz yumuşaması tanımı ve misalleri"
+    },
+    {
+      "dosya": "1000538155.webp",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "aciklama": "Ünsüz yumuşaması misalleri (devam)"
+    },
+    {
+      "dosya": "1000538156.webp",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Yumuşaması (Ünsüz Değişimi)",
+      "aciklama": "Özet şeması (yumuşama/benzeşme)"
+    },
+    {
+      "dosya": "1000538189.webp",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Kaynaştırma Ünsüzü (Yardımcı Ünsüz)",
+      "aciklama": "Kaynaştırma ünsüzü tanımı ve misalleri"
+    },
+    {
+      "dosya": "1000538188.webp",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Ünsüz Düşmesi",
+      "aciklama": "Ünsüz düşmesi tanımı ve misalleri"
+    },
+    {
+      "dosya": "1000538191.webp",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Göçüşme",
+      "aciklama": "Göçüşme tanımı ve misalleri"
+    },
+    {
+      "dosya": "1000538190.webp",
+      "anaBaslik": "Ünsüzlerle İlgili Ses Olayları",
+      "altBaslik": "Dudak Ünsüzlerinin Benzeşmesi (Dudaksıllaşma)",
+      "aciklama": "Dudaksıllaşma tanımı ve misalleri"
+    },
+    {
+      "dosya": "1000538195.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "aciklama": "Mektup hitapları"
+    },
+    {
+      "dosya": "1000538192.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "aciklama": "Tırnak/yay ayraç içi cümleler"
+    },
+    {
+      "dosya": "1000538197.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "aciklama": "Doğu/Batı sözleri"
+    },
+    {
+      "dosya": "1000538196.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "aciklama": "Millet, boy, oymak adları"
+    },
+    {
+      "dosya": "1000538193.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "aciklama": "İki kısa çizgi arası"
+    },
+    {
+      "dosya": "1000538198.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "aciklama": "Coğrafi adlar (deniz, il, mahalle)"
+    },
+    {
+      "dosya": "1000538199.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "aciklama": "il/ilçe küçük, mahalle/cadde büyük"
+    },
+    {
+      "dosya": "1000538200.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "aciklama": "Usta İşi: gazete/dergi"
+    },
+    {
+      "dosya": "1000538202.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "aciklama": "Yer/millet/kişi birleşik kelimeler"
+    },
+    {
+      "dosya": "1000538201.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "aciklama": "Tarihî olay, çağ, dönem adları"
+    },
+    {
+      "dosya": "1000538207.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Sayıların Yazılışı",
+      "aciklama": "Üleştirme sayıları"
+    },
+    {
+      "dosya": "1000538206.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Sayıların Yazılışı",
+      "aciklama": "Binbir kullanımı"
+    },
+    {
+      "dosya": "1000538205.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Sayıların Yazılışı",
+      "aciklama": "bin/milyon/milyar yazıyla"
+    },
+    {
+      "dosya": "1000538208.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Sayıların Yazılışı",
+      "aciklama": "Sıra sayısı eki yazımı"
+    },
+    {
+      "dosya": "1000538216.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "aciklama": "Vurgusu son hecede olan ikilemeler (bitişik)"
+    },
+    {
+      "dosya": "1000538215.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "İkilemelerin Yazımı",
+      "aciklama": "m ile / isim durum ekli ikilemeler (ayrı)"
+    },
+    {
+      "dosya": "1000538232.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Madde 11: emir kipiyle kalıplaşmış"
+    },
+    {
+      "dosya": "1000538236.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Madde 16: -an/-en sıfat-fiil (bitişik/ayrı)"
+    },
+    {
+      "dosya": "1000538233.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Madde 7: baş sözüyle sıfat tamlamaları"
+    },
+    {
+      "dosya": "1000538235.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Dikkat: ağaç evi / orman evi (ayrı)"
+    },
+    {
+      "dosya": "1000538234.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Dikkat: ÖN (bitişik/ayrı)"
+    },
+    {
+      "dosya": "1000538223.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Madde 8: ev kelimesiyle birleşikler"
+    },
+    {
+      "dosya": "1000538237.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Dikkat: BİR/EV/ANA/BAŞ tablosu"
+    },
+    {
+      "dosya": "1000538225.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Madde 13: altı/üstü/üzeri"
+    },
+    {
+      "dosya": "1000538227.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Madde 20: renk+bitki/hayvan/hastalık"
+    },
+    {
+      "dosya": "1000538229.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "d/e/f/ğ misalleri (biçim, yiyecek, oyun, renk)"
+    },
+    {
+      "dosya": "1000538226.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Madde 18: her iki kelime -dı/-r"
+    },
+    {
+      "dosya": "1000538222.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "BUNLARI BİL: imambayıldı/oldubitti/konargöçer"
+    },
+    {
+      "dosya": "1000538224.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Madde 19: kuruluş adları"
+    },
+    {
+      "dosya": "1000538228.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Madde 21: müzik makam adları"
+    },
+    {
+      "dosya": "1000538230.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Madde 17: ikinci kelime -dı"
+    },
+    {
+      "dosya": "1000538231.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "d/e/f/ğ misalleri (kopya)"
+    },
+    {
+      "dosya": "1000538238.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Ses düşmesi/türemesi olmadığı halde bitişik"
+    },
+    {
+      "dosya": "1000538239.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "aciklama": "Söyleyişte ses yumuşaması (ayırt/azat etmek)"
+    },
+    {
+      "dosya": "1000538246.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "aciklama": "-r/-ar/-er/-maz/-an sıfat-fiil ekleri (ayrı)"
+    },
+    {
+      "dosya": "1000538242.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "aciklama": "Etkinlik 3 devamı (referans)"
+    },
+    {
+      "dosya": "1000538249.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "aciklama": "Nesne/eşya/alet adları (ayrı)"
+    },
+    {
+      "dosya": "1000538250.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "aciklama": "Usta İşi: hastalık/ot dışı anlamlar (bitişik)"
+    },
+    {
+      "dosya": "1000538248.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "aciklama": "BUNLARI BİL: Yerküre / Otoyol"
+    },
+    {
+      "dosya": "1000538243.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "aciklama": "Dikkat: istisna durum (bitişik)"
+    },
+    {
+      "dosya": "1000538245.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "aciklama": "Etkinlik 5 (devam/referans)"
+    },
+    {
+      "dosya": "1000538247.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "aciklama": "Benzetme yoluyla kurulan birleşikler (ayrı)"
+    },
+    {
+      "dosya": "1000538244.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "aciklama": "TDK 2023: yeşil zeytin/biber/soğan/fasulye"
+    },
+    {
+      "dosya": "1000538251.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Kısaltmaların Yazımı",
+      "aciklama": "Kısaltmaların yazımı şeması"
+    },
+    {
+      "dosya": "1000538253.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "aciklama": "TDK Temmuz 2023 değişiklik tablosu"
+    },
+    {
+      "dosya": "1000538244.webp",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "TDK Temmuz 2023 Değişikliği",
+      "aciklama": "TDK 2023: yeşil zeytin/biber/soğan/fasulye"
+    }
+  ],
+  "etkinlikler": [
+    {
+      "ad": "Etkinlik 1",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resimler": [
+        "1000538194.webp"
+      ],
+      "sorular": [
+        {
+          "no": 1,
+          "cumle": "Atatürk \"muhtaç olduğun kudret, damarlarındaki asil kanda mevcuttur!\" diyor.",
+          "dogru": [
+            "Muhtaç"
+          ]
+        },
+        {
+          "no": 2,
+          "cumle": "Arkadaşlarım bana \"İnek\" derler hep.",
+          "dogru": [
+            "inek"
+          ]
+        },
+        {
+          "no": 3,
+          "cumle": "Anadolu kentlerini, köylerini (köy sözünü de çekinerek yazıyorum.) gezsek bile görmek için değil, kendimizi göstermek için geziyoruz.",
+          "dogru": [
+            "Köy"
+          ]
+        },
+        {
+          "no": 4,
+          "cumle": "Yine fütürizm (Gelecekçilik) akımı tüm Rusya'yı etkiledi.",
+          "dogru": [
+            "gelecekçilik"
+          ]
+        },
+        {
+          "no": 5,
+          "cumle": "Bu sefer de onları -Her zamanki yerlerinde bulmak ihtimaliyle- farkında olmadan aramıştım.",
+          "dogru": [
+            "her"
+          ]
+        },
+        {
+          "no": 6,
+          "cumle": "Menfaat sandalyeye benzer: başında taşırsan seni küçültür, ayağının altına alırsan yükseltir.",
+          "dogru": [
+            "Başında"
+          ]
+        }
+      ]
+    },
+    {
+      "ad": "Etkinlik 2",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Büyük Harfler",
+      "resimler": [
+        "1000538203.webp",
+        "1000538204.webp"
+      ],
+      "sorular": [
+        {
+          "no": 1,
+          "cumle": "Ömer Seyfettin, tarhan takma adıyla bazı eserlerini yazmıştır.",
+          "dogru": [
+            "Tarhan"
+          ]
+        },
+        {
+          "no": 2,
+          "cumle": "Dün bay Ali Çiçekçi ile görüştüm.",
+          "dogru": [
+            "Bay"
+          ]
+        },
+        {
+          "no": 3,
+          "cumle": "Ayşe Teyze'min keki çok güzel.",
+          "dogru": [
+            "teyzemin"
+          ]
+        },
+        {
+          "no": 4,
+          "cumle": "Sen de dayı Kemal'den korkuyor musun?",
+          "dogru": [
+            "Dayı"
+          ]
+        },
+        {
+          "no": 5,
+          "cumle": "Japonya'dan gelen heyeti bakan kabul etti.",
+          "dogru": [
+            "Bakan"
+          ]
+        },
+        {
+          "no": 6,
+          "cumle": "Kedisi minnoşu dün yıkamış.",
+          "dogru": [
+            "Minnoş'u"
+          ]
+        },
+        {
+          "no": 7,
+          "cumle": "Türk Milleti çalışkandır.",
+          "dogru": [
+            "milleti"
+          ]
+        },
+        {
+          "no": 8,
+          "cumle": "O devlet katolik miydi?",
+          "dogru": [
+            "Katolik"
+          ]
+        },
+        {
+          "no": 9,
+          "cumle": "Uygurlar budizmi kabul etmiştir.",
+          "dogru": [
+            "Budizm'i"
+          ]
+        },
+        {
+          "no": 10,
+          "cumle": "Bilim insanları satürn gezegeni hakkında çalışmalar yapmış.",
+          "dogru": [
+            "Satürn"
+          ]
+        },
+        {
+          "no": 11,
+          "cumle": "Ahmet doğu mistisizmi hakkında çalışmalar yapmış.",
+          "dogru": [
+            "Doğu"
+          ]
+        },
+        {
+          "no": 12,
+          "cumle": "Ankara'nın Batısı son zamanlarda gelişti.",
+          "dogru": [
+            "batısı"
+          ]
+        },
+        {
+          "no": 13,
+          "cumle": "Ahmet de doğu Avrupa'yı gezmiş.",
+          "dogru": [
+            "Doğu"
+          ]
+        },
+        {
+          "no": 14,
+          "cumle": "Tuna nehrini görmeyi çok istiyorum.",
+          "dogru": [
+            "Nehri'ni"
+          ]
+        },
+        {
+          "no": 15,
+          "cumle": "Taflan Köyü bu hususta çok ileri.",
+          "dogru": [
+            "köyü"
+          ]
+        },
+        {
+          "no": 16,
+          "cumle": "Cemal Nadir sokağında oturuyordu.",
+          "dogru": [
+            "Sokağı'nda"
+          ]
+        },
+        {
+          "no": 17,
+          "cumle": "Çankaya köşkü kaç yılında yapılmış?",
+          "dogru": [
+            "Köşkü"
+          ]
+        },
+        {
+          "no": 18,
+          "cumle": "Akşam boğazda yemeğe gidelim mi?",
+          "dogru": [
+            "Boğaz'da"
+          ]
+        },
+        {
+          "no": 19,
+          "cumle": "Akdeniz Üniversitesi'nde de var bu bölüm.",
+          "dogru": [
+            "Üniversitesinde"
+          ]
+        },
+        {
+          "no": 20,
+          "cumle": "Borçlar hukuku kaç yılında tamamlandı?",
+          "dogru": [
+            "Hukuku"
+          ]
+        },
+        {
+          "no": 21,
+          "cumle": "Bakanlar Kurulu bu yıl erkenden toplandı, demek ki kurulun çok işi var.",
+          "dogru": [
+            "Kurulun"
+          ]
+        },
+        {
+          "no": 22,
+          "cumle": "2276 sayılı kanuna göre bu işlemler gerçekleştirilecek.",
+          "dogru": [
+            "Kanun'a"
+          ]
+        },
+        {
+          "no": 23,
+          "cumle": "Hürriyet Gazetesi'nde gördüğüm ilana çok şaşırdım.",
+          "dogru": [
+            "gazetesinde"
+          ]
+        },
+        {
+          "no": 24,
+          "cumle": "Ben De Yazdım adlı eseri çok beğendim.",
+          "dogru": [
+            "de"
+          ]
+        },
+        {
+          "no": 25,
+          "cumle": "Tanzimat dönemi sanatçılarını biliyor musun?",
+          "dogru": [
+            "dönemi"
+          ]
+        },
+        {
+          "no": 26,
+          "cumle": "35 euro kaç Türk Lirasına denk gelir?",
+          "dogru": [
+            "lirasına"
+          ]
+        },
+        {
+          "no": 27,
+          "cumle": "Ben de Bayati makamında şarkı söyleyeceğim.",
+          "dogru": [
+            "bayati"
+          ]
+        },
+        {
+          "no": 28,
+          "cumle": "Dün maraş dondurması yedim.",
+          "dogru": [
+            "Maraş"
+          ]
+        },
+        {
+          "no": 29,
+          "cumle": "Seni Eylül'ün İkinci haftası arayacağım.",
+          "dogru": [
+            "eylülün"
+          ]
+        },
+        {
+          "no": 30,
+          "cumle": "Ali seni aradı ama sen O'nu aramadın.",
+          "dogru": [
+            "onu"
+          ]
+        }
+      ]
+    },
+    {
+      "ad": "Etkinlik 3",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resimler": [
+        "1000538241.webp"
+      ],
+      "sorular": [
+        {
+          "no": 13,
+          "cumle": "Uyur gezer insanlar tehlikelidir.",
+          "dogru": [
+            "uyurgezer",
+            "rg"
+          ]
+        },
+        {
+          "no": 14,
+          "cumle": "Güney doğudan keşişleme eser.",
+          "dogru": [
+            "güneydoğudan",
+            "yd"
+          ]
+        },
+        {
+          "no": 15,
+          "cumle": "Misak-ı millî sınırları belirlendi.",
+          "dogru": [
+            "Millî",
+            "M"
+          ]
+        },
+        {
+          "no": 16,
+          "cumle": "Yürüksemai önemli bir usul adıdır.",
+          "dogru": [
+            "Yürük semai",
+            "k s"
+          ]
+        },
+        {
+          "no": 17,
+          "cumle": "Dersanede sınavlar bitti.",
+          "dogru": [
+            "dershane",
+            "h"
+          ]
+        },
+        {
+          "no": 18,
+          "cumle": "Polis evinde kalmışlar.",
+          "dogru": [
+            "polisevinde",
+            "se"
+          ]
+        },
+        {
+          "no": 19,
+          "cumle": "Bugün bu ormanevinde kaldık.",
+          "dogru": [
+            "orman evinde",
+            "n e"
+          ]
+        },
+        {
+          "no": 20,
+          "cumle": "Bu romanın baş kahramanı kim?",
+          "dogru": [
+            "başkahramanı",
+            "şk"
+          ]
+        },
+        {
+          "no": 22,
+          "cumle": "Mehter başı bugün gelmedi mi?",
+          "dogru": [
+            "mehterbaşı",
+            "rb"
+          ]
+        },
+        {
+          "no": 23,
+          "cumle": "Hiç bir adam gelmemiş.",
+          "dogru": [
+            "hiçbir",
+            "çb"
+          ]
+        }
+      ]
+    },
+    {
+      "ad": "Etkinlik 4",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Birleşik Kelimelerin Yazımı",
+      "resimler": [
+        "1000538240.webp"
+      ],
+      "sorular": [
+        {
+          "no": 1,
+          "cumle": "İnsan biri birine böyle yapmamalı.",
+          "dogru": [
+            "biribirine",
+            "ib"
+          ]
+        },
+        {
+          "no": 2,
+          "cumle": "Çoban çantası torbayı andıran bir yaban bitkisidir.",
+          "dogru": [
+            "çobançantası",
+            "nç"
+          ]
+        },
+        {
+          "no": 3,
+          "cumle": "Böceklerden şeytan iğnesi beni hep şaşırtmıştır.",
+          "dogru": [
+            "şeytaniğnesi",
+            "ni"
+          ]
+        },
+        {
+          "no": 4,
+          "cumle": "Gaga burun gemiler hep hoşuma gider.",
+          "dogru": [
+            "gagaburun",
+            "ab"
+          ]
+        },
+        {
+          "no": 5,
+          "cumle": "Sıçan dişi dikiş atmış.",
+          "dogru": [
+            "sıçandişi",
+            "nd"
+          ]
+        },
+        {
+          "no": 6,
+          "cumle": "Tatlılardan tavuk göğsünü severim.",
+          "dogru": [
+            "tavukgöğsünü",
+            "kg"
+          ]
+        },
+        {
+          "no": 7,
+          "cumle": "Akşam beş taş oynayalım mı?",
+          "dogru": [
+            "beştaş",
+            "şt"
+          ]
+        },
+        {
+          "no": 8,
+          "cumle": "El kızı anlamaz sevdadan.",
+          "dogru": [
+            "elkızı",
+            "lk"
+          ]
+        },
+        {
+          "no": 9,
+          "cumle": "Deve tüyü rengi bir kumaş aldım.",
+          "dogru": [
+            "devetüyü",
+            "et"
+          ]
+        },
+        {
+          "no": 10,
+          "cumle": "Böyle kadir bilmez insan görmedim.",
+          "dogru": [
+            "kadirbilmez",
+            "rb"
+          ]
+        },
+        {
+          "no": 11,
+          "cumle": "Ayak üstü konuşmaya gelmez bu konu.",
+          "dogru": [
+            "ayaküstü",
+            "kü"
+          ]
+        },
+        {
+          "no": 12,
+          "cumle": "Bir kül bastı mı yesek?",
+          "dogru": [
+            "külbastı",
+            "lb"
+          ]
+        }
+      ]
+    },
+    {
+      "ad": "Etkinlik 5",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resimler": [
+        "1000538245.webp"
+      ],
+      "sorular": [
+        {
+          "no": 1,
+          "cumle": "Bu sözleri neden sarfettiğini anlamadım.",
+          "dogru": [
+            "sarf ettiğini",
+            "f e"
+          ]
+        },
+        {
+          "no": 2,
+          "cumle": "Tarlakuşu sever misin?",
+          "dogru": [
+            "tarla kuşu",
+            "a k"
+          ]
+        },
+        {
+          "no": 3,
+          "cumle": "Uğurböceğini kim sevmez ki?",
+          "dogru": [
+            "uğur böceğini",
+            "r b"
+          ]
+        },
+        {
+          "no": 4,
+          "cumle": "Etsineği seni rahatsız eder mi?",
+          "dogru": [
+            "et sineği",
+            "t s"
+          ]
+        },
+        {
+          "no": 5,
+          "cumle": "Tonbalıklı salata ister misin?",
+          "dogru": [
+            "ton balıklı",
+            "n b"
+          ]
+        },
+        {
+          "no": 6,
+          "cumle": "Yüksükotu yetişir mi Van'da?",
+          "dogru": [
+            "yüksük otu",
+            "k o"
+          ]
+        },
+        {
+          "no": 7,
+          "cumle": "Kurufasulye sever misin?",
+          "dogru": [
+            "kuru fasulye",
+            "u f"
+          ]
+        },
+        {
+          "no": 8,
+          "cumle": "Altgeçitte mi kalmış araba?",
+          "dogru": [
+            "alt geçitte",
+            "t g"
+          ]
+        },
+        {
+          "no": 9,
+          "cumle": "Benim dolmakalemim galiba burada kalmış.",
+          "dogru": [
+            "dolma kalemim",
+            "a k"
+          ]
+        },
+        {
+          "no": 10,
+          "cumle": "Bu karayolu ne zaman ulaşıma kapandı?",
+          "dogru": [
+            "kara yolu",
+            "a y"
+          ]
+        },
+        {
+          "no": 11,
+          "cumle": "İşbirliği yapmamız gerekiyor.",
+          "dogru": [
+            "iş birliği",
+            "ş b"
+          ]
+        }
+      ]
+    },
+    {
+      "ad": "Etkinlik 6",
+      "anaBaslik": "Yazım Kuralları",
+      "altBaslik": "Ayrı Yazılan Birleşik Kelimeler",
+      "resimler": [
+        "1000538252.webp"
+      ],
+      "sorular": [
+        {
+          "no": "a",
+          "cumle": "Eskiçağlardan kalma eşyalar başdöndürücü etkiye sahip diyebilirim.",
+          "dogru": [
+            "Eski Çağ",
+            "baş döndürücü"
+          ],
+          "coklu": true
+        },
+        {
+          "no": "b",
+          "cumle": "Bu haftasonu seni terketmiş.",
+          "dogru": [
+            "hafta sonu",
+            "terk etmiş"
+          ],
+          "coklu": true
+        },
+        {
+          "no": "c",
+          "cumle": "Sualtı çalışmaları için sizinde bir fikriniz vardır.",
+          "dogru": [
+            "su altı",
+            "sizin de"
+          ],
+          "coklu": true
+        },
+        {
+          "no": "d",
+          "cumle": "Türk Milleti, Amerika'lı insanları bile köşeye atmaz.",
+          "dogru": [
+            "Türk milleti",
+            "Amerikalı"
+          ],
+          "coklu": true
+        },
+        {
+          "no": "e",
+          "cumle": "Yetmişbeş bin koyun alıp ta kimseye haber etmez.",
+          "dogru": [
+            "yetmiş beş bin",
+            "da"
+          ],
+          "coklu": true
+        },
+        {
+          "no": "f",
+          "cumle": "Yurtdışından gelen bu sıradışı heykeller git gide yayılıyor.",
+          "dogru": [
+            "yurt dışı",
+            "sıra dışı",
+            "gitgide"
+          ],
+          "coklu": true
+        },
+        {
+          "no": "g",
+          "cumle": "Ayışığı kadar saf ve temizdir. Farkedersen bir ceylandı sanki",
+          "dogru": [
+            "ay ışığı",
+            "fark edersen"
+          ],
+          "coklu": true
+        },
+        {
+          "no": "h",
+          "cumle": "Yakışmazdı bu artarda baş kaldırı / Yakışmazdı bu göz yaşı / Demiryolu gibi sıralanmış yasadışı işler / Bilinç altında yaşayan bir Pasinler İlçesi / Baş köşeye koyduğum bu hayat",
+          "dogru": [
+            "art arda",
+            "başkaldırı",
+            "demir yolu",
+            "gözyaşı",
+            "yasa dışı",
+            "bilinçaltı",
+            "Pasinler ilçesi",
+            "Başköşe"
+          ],
+          "coklu": true
+        }
+      ]
+    }
+  ]
+}
